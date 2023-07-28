@@ -1,0 +1,49 @@
+:root {
+    --cor-de-fundo: rgb(99, 52, 99);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {background-color: rgb(228, 219, 219);
+}
+
+
+.cabecalho {
+    background-color: var(--cor-de-fundo);
+}
+
+
+.cabecalho-titulo {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+
+:root {
+    --cor-de-fundo: rgb(216, 216, 216);
+}
+
+body {
+    background-color: var(--cor-de-fundo);
+}
+
+h1 {background-color: rgb(228, 219, 219);
+}
+
+
+.cabecalhoenu-item {
+    background-color: var(--cor-de-fundo);
+}
+
+.cabecalho-menu-item  {
+    font-size: 36px;
+    font-weight: 700;
+    padding: 12px;
+    text-align: center;
+}
+.cabecalho-menu{
+    color: white;
+}
